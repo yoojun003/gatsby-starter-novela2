@@ -61,7 +61,7 @@ const ArticlesHero: React.FC<IAuthor> = ({ authors }) => {
             </HeadingContainer>
             <About author={featuredAuthor} />
             <SubheadingContainer>
-                <ProjectsHeading>My Latest Projects</ProjectsHeading>
+                <ProjectsHeading>My Projects</ProjectsHeading>
                 <GridControlsContainer>
                     <GridButton
                         onClick={() => setGridLayout("tiles")}

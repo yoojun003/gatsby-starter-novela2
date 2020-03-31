@@ -12,6 +12,7 @@ const About: React.FC = ({ author }) => {
             <AboutSpotlight>
                 <AboutContent>
                     <p>
+                    <br /> 
                         안녕하세요.  
                         <br /> 
                         데이터 속 인사이트를 찾기 위해 노력하는 Data Analyst 박용준 입니다.

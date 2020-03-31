@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
       title: `Park yong jun // Data Analylst`,
-      name: `| Made with ❤ by Markus Haack | Built with: Gatsby.js & Novela theme`,
+      name: `| Created by park yong jun | Built with: Gatsby.js & Novela theme & MH git`,
       siteUrl: `https://novela.narative.co`,
       description: `Software Engineer working at Adobe and proud dad of a wonderful daughter.`,
       hero: {
@@ -20,7 +20,7 @@ module.exports = {
           },
           {
               name: `linkedin`,
-              url: `www.linkedin.com/in/yoojun3651`
+              url: `www.linkedin.com/in/yoojun3651/`
           }
       ]
   },

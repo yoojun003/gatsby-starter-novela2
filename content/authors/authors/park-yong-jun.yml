@@ -1,12 +1,10 @@
-name: Park Yong Jun
+name: Park yong jun
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+    Software Engineer working at Adobe and proud dad of a wonderful daughter.
 avatar: ./avatars/park-yong-jun.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+    - url: https://twitter.com/mhaack
+    - url: https://instagram.com/mhaack
+    - url: https://github.com/mhaack
+    - url: https://linkedin.com/in/markushaack
 featured: true

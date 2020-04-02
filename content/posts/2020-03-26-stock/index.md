@@ -1,9 +1,9 @@
 ---
-title: 시스템 트레이딩 및 자동매매 프로그램 설계
-slug: Park yong jun
-date: 2019-12-27
+title: 파이썬을 활용한 포트폴리오 및 자동 매매 프로그램
+slug: Park yong junz
+date: 2020-03-26
 author: Park yong jun
-excerpt: 파이썬을 활용한 포트폴리오 구성, 자동매매 프로그램 구현
+excerpt: 주식 프로젝트 기획 및 설계
 hero: ./images/title_trading.png
 ---
 

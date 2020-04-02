@@ -12,32 +12,28 @@ const About: React.FC = ({ author }) => {
             <AboutSpotlight>
                 <AboutContent>
                     <p>
-                    <br /> 
-                        안녕하세요.  
-                        <br /> 
-                        데이터 속 인사이트를 찾기 위해 노력하는 Data Analyst 박용준 입니다.
-                        <br /> 
+                        안녕하세요. Data Analyst 박용준입니다.
+                        <br />
+                        수자원 연구 경력과 DATA 분석 경험을 정리한 블로그 입니다.  
                     </p>
                     <p>
-                        학력(Educattion) : 인천대학교 수학과 졸업(학사)
+                        ■     경력 및 교육이수
                         <br />
-                        <br />
-                        경력 및 교육이수 
-                        <br />
-                        - 수자원조사기술원(2017~2019), 연구원                        
+                        - 수자원조사기술원(연구원)                        
                         <br />
                         - 파이썬과 R을 활용한 빅데이터 머신러닝 전문가 양성과정(아이티윌)
                         <br />
-                        - 수문종사자교육
+                        <br /> 
+                        ■      기술
+                        <br /> 
+                        - 파이썬, R, SQL, PLSQL, TUNNING, HADOOP
+                        <br /> 
+                        - 데이터수집 및 전처리, 분석, 시각화, 웹 크롤링, 머신러닝, 딥러닝
                         <br /> 
                         <br /> 
-                        기술 및 자격증
-                        <br /> 
-                        - 파이썬, R, SQL, PLSQL, TUNNING
-                        <br /> 
-                        - 데이터수집, 정제, HADOOP, 웹크롤링, 머신러닝, 딥러닝
-                        <br /> 
-                        자격증 : 정보처리기사, 데이터분석준전문가(ADsP), 컴퓨터활용능력 1급
+                        ■      자격증
+                        <br />
+                        데이터분석준전문가(ADsP), 정보처리기사, 컴퓨터활용능력 1급
                     </p>
                 </AboutContent>
                 <AboutImage>
@@ -46,6 +42,7 @@ const About: React.FC = ({ author }) => {
             </AboutSpotlight>
         </AboutContainer>
     );
+    
 };
 
 export default About;

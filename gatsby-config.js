@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-      title: `Park yong jun // Data Analylst`,
+      title: `PYJ // Data Analyst`,
       name: `| Created by park yong jun | Built with: Gatsby.js & Novela theme & MH git`,
       siteUrl: `https://novela.narative.co`,
       description: `Software Engineer working at Adobe and proud dad of a wonderful daughter.`,
       hero: {
           heading: `Park yong jun's Portfolio`,
-          subHeading: `Data Analysts & Researcher`,
-          maxWidth: 652
+          subHeading: `Data Analyst & Hydrological survey Researcher`,
+          maxWidth: 1000
       },
       social: [
           {
@@ -41,7 +41,7 @@ module.exports = {
       {
           resolve: `gatsby-plugin-manifest`,
           options: {
-              name: `Park yong jun // Data Analylst`,
+              name: `PYJ // Data Analylst`,
               short_name: `PYJ`,
               start_url: `/`,
               background_color: `#fff`,

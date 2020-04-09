@@ -12,9 +12,7 @@ const About: React.FC = ({ author }) => {
             <AboutSpotlight>
                 <AboutContent>
                     <br />
-                    <br />
                     <p>
-                    <br />
                         안녕하세요. Data Analyst 박용준입니다.
                         <br />
                         수자원 연구 경력과 DATA 분석 경험을 정리한 블로그 입니다.  

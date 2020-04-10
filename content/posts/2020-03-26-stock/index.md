@@ -101,7 +101,7 @@ blue
 
 ![중국 관련 종목 상관계수](./images/anal_3.png)
 
-<figcaption>전략4 매매 프로그램 구현
+<figcaption>전략4 매매 프로그램
 </figcaption>
 
 ![급등주 포착 알고리즘 및 UI구현](./images/anal_5.png)
@@ -124,4 +124,4 @@ blue
 ![RISK(MDD)](./images/port_5.png)
 
 
-<github url="https://github.com/mhaack/home-assistant-config/tree/master/config/integrations" title="The full list is available on Github"/>
+<github url="https://github.com/yoojun003/stock_project" title="The full list is available on Github"/>

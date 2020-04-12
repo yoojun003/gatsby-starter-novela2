@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
       title: `PYJ // Data Analyst`,
-      name: `| Created by park yong jun | Built with: Gatsby.js & Novela theme & MH git`,
+      name: `| Created by park yong jun | Reference : Novela theme & MH git`,
       siteUrl: `https://novela.narative.co`,
-      description: `Software Engineer working at Adobe and proud dad of a wonderful daughter.`,
+      description: `Data Analys`,
       hero: {
           heading: `Park yong jun's Portfolio`,
           subHeading: `Data Analyst & Hydrological survey Researcher`,
@@ -17,10 +17,6 @@ module.exports = {
           {
               name: `github`,
               url: `https://github.com/yoojun003`
-          },
-          {
-              name: `linkedin`,
-              url: `www.linkedin.com/in/yoojun3651/`
           }
       ]
   },

@@ -13,9 +13,9 @@ const About: React.FC = ({ author }) => {
                 <AboutContent>
                     <br />
                     <p>
-                        안녕하세요. Data Analyst 박용준입니다.
+                        안녕하세요. 데이터 분석가 박용준입니다.
                         <br />
-                        수자원 연구 경력과 DATA 분석 경험을 정리한 블로그 입니다.  
+                        수자원 연구 경력과 데이터 분석 경험을 정리한 블로그 입니다.  
                     </p>
                     <p>
                         ■     경력 및 교육이수
@@ -84,7 +84,7 @@ const AboutContent = styled.div`
 
 const AboutImage = styled.div`
     width: 300px;
-    height: 300px;
+    height: 390px;
     border-radius: 50%;
     margin-left: 4em;
 

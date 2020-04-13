@@ -9,8 +9,7 @@ const Contact: React.FC = () => {
         <Section narrow id="Articles__Contact">
             <ContactContainer>
                 <Content>
-                    <Heading>Get In Touch</Heading>
-                    <Text>Want to have a chat? Send me a message.</Text>
+                    <Heading>Contact Us - 문의하기</Heading>
                     <form
                         name="contact"
                         method="post"

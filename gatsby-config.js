@@ -11,13 +11,17 @@ module.exports = {
       },
       social: [
           {
-              name: `instagram`,
-              url: `https://www.instagram.com/yoojun3651`
+            name: `linkedin`,
+            url: `https://linkedin.com/in/yoojun3651/`
           },
           {
               name: `github`,
               url: `https://github.com/yoojun003`
-          }
+          },
+          {
+            name: `instagram`,
+            url: `https://www.instagram.com/yoojun3651`
+        }
       ]
   },
   plugins: [

@@ -63,5 +63,10 @@ hero: ./images/title_iot.png
 </figcaption>
 
 ![범죄현황](./images/3_4.png)
+
 - [통계청의 공공데이터](http://kostat.go.kr/portal/korea/index.action)(인구, 가구, 소득분위, 범죄현황 등) 수집 및 전처리
 - 분석 및 시각화 TOOL로 **R** 사용(library::ggplot2)
+
+<github url="https://github.com/yoojun003/home_iot/blob/master/publicd_data_analyst.R" title="The analyst_code is available on Github"/>
+
+
